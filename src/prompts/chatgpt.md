@@ -1,4 +1,5 @@
-PROMPT PARA TÍTULO DO E-BOOK
+## PROMPT PARA TÍTULO DO E-BOOK
+
 
 Você é um veterinário e  iremos criar um ebook sobre mini coelho. Sugira 5 nomes criativos e atrativo para um ebook sobre esse tema em que o público alvo serão pessoas que já possuem ou desejam possuir um mini coelho para criá-lo como PET.
 O ebook terá o objetivo de apresentar para esse público quais são as caraterísticas de um mini coelho e quais são os cuidados necessários para que esse animal cresça feliz e saudável sendo criado como PET.
@@ -10,8 +11,10 @@ O ebook terá o objetivo de apresentar para esse público quais são as carater�
 
 {REGRAS NEGATIVAS}
 - Não quero que o nome contenha palavrões ou gírias.
+  
 
-PROMPT PARA COTEÚDO DO E-BOOK
+
+## PROMPT PARA COTEÚDO DO E-BOOK
 
 Você é um veterinário e  iremos criar um ebook sobre mini coelho. Faça, um texto para um ebook, sobre cuidados necessários para se criar um mini coelho como pet.  O público alvo será pessoas que já possuem ou desejam possuir um mini coelho para criá-lo como pet.
 O ebook terá o objetivo de apresentar para esse público quais são as caraterísticas de um mini coelho e quais são os cuidados necessários para que esse animal cresça feliz e saudável sendo criado como pet.
