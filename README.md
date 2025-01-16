@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cove.png"
+    src="./assets/Imagem_ebook.jpeg"
     width="400"  
 />
 </p>
