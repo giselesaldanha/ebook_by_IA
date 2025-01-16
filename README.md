@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/Imagem_ebook.jpeg"
-    width="400"  
+    width="300"  
 />
 </p>
 
@@ -37,3 +37,5 @@ Todos os prompts estão disponíveis no diretório `src` desse repositório.
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point ou canvas, por exemplo, para diagramação.
 
+## ✨ Agradecimento
+Agradeço a CAIXA e a DIO pela oportunidade de realizar esse bootcamp e ao "Felipão" (Felipe Aguiar) por todo o conhecimento compartilhado.
